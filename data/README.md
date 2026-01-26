@@ -15,4 +15,5 @@ Este directorio almacena los datasets ya procesados (en formato csv o xlsx) util
 | `07_Censo_Income_Benefits_Manhattan.csv` | US Census Bureau | Niveles de ingreso y beneficios. |
 | `08_Censo_Housing_Occupancy_Manhattan.csv` | US Census Bureau | Análisis de densidad habitacional y tasa de vacancia. |
 | `09_Censo_Gross_Rent_Manhattan.scv` | US Census Bureau | Precios de alquiler por zona. |
-
+| `10_MTA_Manhattan.scv` | MTA Developer Data | Registro de flujos de pasajeros en las estaciones de metro de Manhattan. |
+| `11_Common_Places_Manhattan.scv` | NYC Facilities Database | Directorio de lugares atractores de viajes en Manhhttan. |
