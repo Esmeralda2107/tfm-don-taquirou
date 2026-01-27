@@ -11,3 +11,5 @@ Este directorio contiene los scripts de Python (Jupyter Notebooks) utilizados pa
 **`03_Data_Cleaning_FactFinder.ipynb`**: Notebook dedicado a la extracción y reestructuración inicial de los 31 archivos independientes del Censo, transformando tablas anidadas en estructuras de datos compatibles.
 
 **`04_Limpieza_Censo.ipynb`**: Ejecución de la limpieza final de las 7 bases demográficas, incluyendo los algoritmos de media ponderada para ingresos y el cálculo técnico de tasas de vacancia residencial.
+
+**`05_Limpieza_MTA.ipynb`**: Enálisis de movilidad urbana mediante el procesamiento de validaciones horarias. Incluye el filtrado por horario comercial (10:00 - 22:00) por estación en Manhattan.
