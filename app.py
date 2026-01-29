@@ -51,18 +51,18 @@ st.divider()
 @st.cache_data(show_spinner="Cargando bases de datos…")
 def cargar_datos():
     data = {
-        "Restaurantes (Competencia)": pd.read_csv("01_Restaurantes_Manhattan.csv"),
-        "Seguridad": pd.read_csv("02_Seguridad_Manhattan.csv"),
-        "Censo – Edad y Sexo": pd.read_csv("03_Censo_Age_Sex_Manhattan.csv"),
-        "Censo – Origen Hispano": pd.read_csv("04_Censo_Hispanic_Origin_Manhattan.csv"),
-        "Censo – Tipo de Hogar": pd.read_csv("05_Censo_Household_Type_Manhattan.csv"),
-        "Censo – Situación Laboral": pd.read_csv("06_Censo_Employment_Status_Manhattan.csv"),
-        "Censo – Ingresos y Beneficios": pd.read_csv("07_Censo_Income_Benefits_Manhattan.csv"),
-        "Censo – Ocupación de Vivienda": pd.read_csv("08_Censo_Housing_Occupancy_Manhattan.csv"),
-        "Censo – Alquiler Bruto": pd.read_csv("09_Censo_Gross_Rent_Manhattan.csv"),
-        "Movilidad (MTA)": pd.read_csv("10_MTA_Manhattan.csv"),
-        "Lugares Comunes / Puntos de Interés": pd.read_csv("11_Common_Places_Manhattan.csv"),
-        "Reseñas de Restaurantes": pd.read_csv("12_Restaurantes_Resenas.csv")
+        "Restaurantes (Competencia)": pd.read_csv("data/01_Restaurantes_Manhattan.csv"),
+        "Seguridad": pd.read_csv("data/02_Seguridad_Manhattan.csv"),
+        "Censo – Edad y Sexo": pd.read_csv("data/03_Censo_Age_Sex_Manhattan.csv"),
+        "Censo – Origen Hispano": pd.read_csv("data/04_Censo_Hispanic_Origin_Manhattan.csv"),
+        "Censo – Tipo de Hogar": pd.read_csv("data/05_Censo_Household_Type_Manhattan.csv"),
+        "Censo – Situación Laboral": pd.read_csv("data/06_Censo_Employment_Status_Manhattan.csv"),
+        "Censo – Ingresos y Beneficios": pd.read_csv("data/07_Censo_Income_Benefits_Manhattan.csv"),
+        "Censo – Ocupación de Vivienda": pd.read_csv("data/08_Censo_Housing_Occupancy_Manhattan.csv"),
+        "Censo – Alquiler Bruto": pd.read_csv("data/09_Censo_Gross_Rent_Manhattan.csv"),
+        "Movilidad (MTA)": pd.read_csv("data/10_MTA_Manhattan.csv"),
+        "Lugares Comunes / Puntos de Interés": pd.read_csv("data/11_Common_Places_Manhattan.csv"),
+        "Reseñas de Restaurantes": pd.read_csv("data/12_Restaurantes_Resenas.csv")
     }
     return data
 
