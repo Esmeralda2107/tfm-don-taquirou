@@ -17,3 +17,4 @@ Este directorio almacena los datasets ya procesados (en formato csv o xlsx) util
 | `09_Censo_Gross_Rent_Manhattan.scv` | US Census Bureau | Precios de alquiler por zona. |
 | `10_MTA_Manhattan.scv` | MTA Developer Data | Registro de flujos de pasajeros en las estaciones de metro de Manhattan. |
 | `11_Common_Places_Manhattan.scv` | NYC Facilities Database | Directorio de lugares atractores de viajes en Manhhttan. |
+| `12_Restaurantes_Resenas.csv` | TripAdvisor | Exploración de percepción y satisfacción de clientes mediante reseñas filtradas de establecimientos gastronómicos. |
