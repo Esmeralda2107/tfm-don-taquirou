@@ -18,4 +18,4 @@ Este directorio contiene los scripts de Python (Jupyter Notebooks) utilizados pa
 
 **`07_Streamlit.py`**: Aplicación web interactiva dedicada a la centralización y visualización preliminar de las fuentes de datos.
 
-**`08_Limpieza_API_Resenas_Restaurantes`**: Script para la ingesta y limpieza de datos obtenidos vía API de TripAdvisor
+**`08_Limpieza_API_Resenas_Restaurantes.ipynb`**: Script para la ingesta y limpieza de datos obtenidos vía API de TripAdvisor
