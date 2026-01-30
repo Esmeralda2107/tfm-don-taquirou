@@ -17,3 +17,5 @@ Este directorio contiene los scripts de Python (Jupyter Notebooks) utilizados pa
 **`06_Limpieza_Common_Places.ipynb`**: Análisis enfocado en el procesamiento de NYC Facilities Database. Permite ubicar la concentración y categorización de puntos de interés representativos (recreativos, culturales, educativos, entre otros) como generadores de flujo peatonal.
 
 **`07_Streamlit.py`**: Aplicación web interactiva dedicada a la centralización y visualización preliminar de las fuentes de datos.
+
+**`08_Limpieza_API_Resenas_Restaurantes`**: Script para la ingesta y limpieza de datos obtenidos vía API de TripAdvisor
